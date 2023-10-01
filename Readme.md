@@ -31,7 +31,7 @@
   <a href="https://https://discord.com/channels/anoyash" target="blank"
     ><img
       align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      src="https://github.com/anoyash/anoyash/blob/main/download.png"
       alt="ashutosh-kumar-0a3215139"
       height="30"
       width="40"
