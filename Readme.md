@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Kumar</h1>
-<p align="left">
+<!-- <p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=anoyash&label=Profile%20views&color=0e75b6&style=flat"
     alt="anoyash"
   />
-</p>
+</p> -->
 
 - 🌱 I’m currently learning **ReactJs** - 📫 How to reach me **ak2417942@gmail.com**
 - Currently working On Web Portfolio website - having 3D objects, animations using Spline and finally insert into as React Component
