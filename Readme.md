@@ -7,7 +7,7 @@
 </p>
 
 - 🌱 I’m currently learning **ReactJs** - 📫 How to reach me **ak2417942@gmail.com**
-- Currently working On Web Portfolio website - having 3D objects and animations feature and using react library
+- Currently working On Web Portfolio website - having 3D objects, animations using Spline and finally insert into as React Component
 
 
 <h3 align="left">Connect with me:</h3>
@@ -24,6 +24,14 @@
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="ashutosh-kumar-0a3215139"
+      height="30"
+      width="40"
+  /></a>
+   <a href="https://leetcode.com/anoyash/" target="blank"
+    ><img
+      align="center"
+      src="https://github.com/anoyash/anoyash/blob/main/leetcode.jpg"
       alt="ashutosh-kumar-0a3215139"
       height="30"
       width="40"
