@@ -186,7 +186,7 @@
     <img
       src="https://media.licdn.com/dms/image/v2/D5612AQEHNR79g-j8tQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1704559158662?e=2147483647&v=beta&t=Jc3l9Wh95b733uGAPnKvzmLfr14PdvwPinX2eOhfgcA"
       alt="oracleplsql"
-      width="40"
+      width="60"
       height="40"
     />
   </a>
