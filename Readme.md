@@ -6,9 +6,7 @@
   />
 </p> -->
 
-- 🌱 I’m currently learning **ReactJs** - 📫 How to reach me **ak2417942@gmail.com**
-- Currently working On Web Portfolio website - having 3D objects, animations using Spline and finally insert into as React Component
-
+- 🌱 I’m currently learning **JAVA With SpringBoot** - 📫 How to reach me **ak2417942@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
